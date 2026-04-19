@@ -7,3 +7,7 @@ Managing Partner at [Frontira](https://frontira.com). We build intelligent syste
 Agentic engineering, automation, AI. From strategy to production.
 
 Based in Berlin and Salzburg.
+
+---
+
+Recent work by Frontira has been featured in the [NVIDIA GTC Jensen Huang Keynote](https://www.nvidia.com/en-us/on-demand/session/gtc26-s81595/), [Peter Steinberger's TED Talk](https://www.ted.com/talks/peter_steinberger_how_i_created_openclaw_the_breakthrough_ai_agent), [NBC News](https://www.nbcnews.com/tech/tech-news/lobster-themed-event-ai-enthusiasts-exuberance-side-cocktail-sauce-rcna261892), [Business Insider](https://www.businessinsider.de/wirtschaft/oesterreicher-brauen-bier-mit-ki-agent-und-landen-in-keynote-vom-nvidia-chef/), [Der Standard](https://www.derstandard.at/story/3000000315024/bier-brauen-openclaw-ki), and [Die Presse](https://diepresse1848.podigee.io/1502-lobster).
