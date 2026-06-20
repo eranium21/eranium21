@@ -15,6 +15,7 @@ A visible proof case is [Lobster Lager](https://www.lobsterlager.com/keynote): a
 **Public repos**
 
 - [agent-awake](https://github.com/eranium21/agent-awake) - a tiny macOS menu bar app for keeping local agents and long-running jobs awake.
+- [plaud-web-workflows](https://github.com/eranium21/plaud-web-workflows) - an unofficial Plaud Web CLI for batch renaming, searching, foldering, and exporting account-owned recordings.
 - [cmuxws](https://github.com/eranium21/cmuxws) - a shell helper for creating cmux workspaces from repo features, routes, and navigation.
 - [speaking](https://github.com/eranium21/speaking) - talks, panels, signature keynote topics, and appearances.
 - [press](https://github.com/eranium21/press) - press, podcasts, TV, and media coverage.
