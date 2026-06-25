@@ -20,6 +20,8 @@ A visible proof case is [Lobster Lager](https://www.lobsterlager.com/keynote): a
 - [speaking](https://github.com/eranium21/speaking) - talks, panels, signature keynote topics, and appearances.
 - [press](https://github.com/eranium21/press) - press, podcasts, TV, and media coverage.
 
+Upcoming speaking includes [TourismFastForward 2026](https://www.tourismfastforward.com/) at Europahaus Mayrhofen.
+
 Recent speaking includes [ClawCon Vienna 1](https://openclaws.io/blog/clawcon-vienna), [ClawCon Vienna 2](https://viennaup.com), [AI Agents Summit 2026](https://luma.com/ai-agents-summit-2026?tk=5JhfBs), [LSZ IT Leaders Experience](https://lsz.at/kongress/it-leaders-experience-waidhofen), and [RTR / KommAustria](https://www.rtr.at).
 
 Recent recognition includes [TokenMade Hamburg](https://tokenmade.ai) winner and three [AIR Salzburg 2026](https://www.meinbezirk.at/salzburg/c-regionauten-community/drei-auszeichnungen-fuer-das-projekt-der-salzburg-ag-zwei-fuer-das-projekt-der-oebb-infrastruktur-ag_a8605967) awards connected to Frontira work: Lobster Lager, Baumit Agent, and Salzwelten Smart Reply.
