@@ -1,31 +1,29 @@
-<img src="stefan.png" width="280" align="right" />
+<img src="stefan.png" width="260" align="right" alt="Stefan Erschwendner" />
 
-### Hey, I'm Stefan.
+# Stefan Erschwendner
 
-Managing Partner at [Frontira](https://frontira.com). We build intelligent systems that liberate intelligent people from unintelligent work.
+Managing Partner at [Frontira](https://frontira.com) · Berlin and Salzburg
 
-Agentic Business Engineering, automation, AI. From strategy to production.
+Frontira builds custom software. I use **Agentic Business Engineering** to help teams turn domain knowledge and working practices into useful applications, with clear ownership and human oversight.
 
-Based in Berlin and Salzburg.
+## Work and open source
 
----
+[Lobster Lager](https://www.lobsterlager.com/keynote) is a project I started with my father Gerhard, a brewmaster. Together we connected his brewing experience to AI-assisted software and a real brewing workflow. Jensen Huang showed the project in his [NVIDIA GTC keynote](https://www.nvidia.com/en-us/on-demand/session/gtc26-s81595/); Peter Steinberger later mentioned it in his [TED2026 talk](https://www.ted.com/talks/peter_steinberger_how_i_created_openclaw_the_breakthrough_ai_agent).
 
-A visible proof case is [Lobster Lager](https://www.lobsterlager.com/keynote): a brewmaster, an AI-assisted brewing workflow and a real beer. Jensen Huang showed the project in his NVIDIA GTC keynote; Peter Steinberger later mentioned it in his TED2026 talk. Its media record spans original reporting, interviews, podcasts and syndication. It is the story I use to make Agentic Business Engineering tangible.
+- [agent-awake](https://github.com/eranium21/agent-awake) — macOS menu bar app for long-running local agent jobs.
+- [plaud-web-workflows](https://github.com/eranium21/plaud-web-workflows) — unofficial CLI for managing account-owned Plaud recordings.
+- [cmuxws](https://github.com/eranium21/cmuxws) — shell helper for creating cmux workspaces.
 
-**Public repos**
+## Speaking
 
-- [agent-awake](https://github.com/eranium21/agent-awake) - a tiny macOS menu bar app for keeping local agents and long-running jobs awake.
-- [plaud-web-workflows](https://github.com/eranium21/plaud-web-workflows) - an unofficial Plaud Web CLI for batch renaming, searching, foldering, and exporting account-owned recordings.
-- [cmuxws](https://github.com/eranium21/cmuxws) - a shell helper for creating cmux workspaces from repo features, routes, and navigation.
-- [speaking](https://github.com/eranium21/speaking) - talks, panels, signature keynote topics, and appearances.
-- [press](https://github.com/eranium21/press) - press, podcasts, TV, and media coverage.
+I speak about agentic engineering, application capacity and what changes when software built with agents enters real operations. Recent sessions include [DigitalOcean Open Intelligence](https://www.digitalocean.com/open-intelligence-summit) with Gerhard and a joint [DSC DACH tutorial](https://dscdach.com/speakers/). Upcoming talks include [code.talks Hamburg](https://codetalks.com/), [AI Coding Summit NYC](https://gitnation.com/events/ai-coding-summit-nyc/talks) (prerecorded) and [TourismFastForward](https://www.tourismfastforward.com/speaker/stefan-erschwendner/).
 
-Upcoming speaking includes [code.talks 2026](https://codetalks.com/) in Hamburg on 5 November, the prerecorded [AI Coding Summit NYC 2026](https://gitnation.com/events/ai-coding-summit-nyc/talks) talk, [TourismFastForward 2026](https://www.tourismfastforward.com/speaker/stefan-erschwendner/) in Mayrhofen, and KIM 2027 in Salzburg.
+→ [Full speaking archive](https://github.com/eranium21/speaking)
 
-Recent speaking includes a joint Lobster Lager talk with Gerhard at [DigitalOcean Open Intelligence](https://www.digitalocean.com/open-intelligence-summit) in San Francisco, a joint [DSC DACH 2026](https://dscdach.com/speakers/) tutorial with my father Gerhard, the [DIH-West Forum](https://www.fh-salzburg.ac.at/fhs/aktuelles/veranstaltungen?cHash=09b58a975bd7e47b5772b6d54b5152b2&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=6468), a live interview at [LSZ CIO Kongress 2026](https://lsz.at/kongress/cio-kongress-loipersdorf), [Jobiqo Connect 2026](https://www.jobiqo.com/de/jobiqo-connect-2026/) and [AI Agents Summit 2026](https://ai-agents-summit.com/). See the [speaking archive](https://github.com/eranium21/speaking) for more.
+## Press and recognition
 
-Recent recognition includes [TokenMade Hamburg](https://tokenmade.ai) winner and three [AIR Salzburg 2026](https://www.meinbezirk.at/salzburg/c-regionauten-community/drei-auszeichnungen-fuer-das-projekt-der-salzburg-ag-zwei-fuer-das-projekt-der-oebb-infrastruktur-ag_a8605967) awards connected to Frontira work: Lobster Lager, Baumit Agent, and Salzwelten Smart Reply.
+Recent interviews: [Business Punk](https://www.business-punk.com/agentic-business-engineering-der-naechste-schritt-von-openai/), [Die Presse](https://www.diepresse.com/41319730/ki-agenten-warum-trotz-aller-warnungen-niemand-bremst) and [Was KI kann](https://open.spotify.com/episode/0U9UdSZwwYMasst2D4RLcf). [Salzburger Nachrichten](https://www.sn.at/wirtschaft/oesterreich/nach-erfolg-mit-ki-bier-will-ein-salzburger-senioren-begeistern-pensionisten-kann-man-nicht-durch-ki-ersetzen-art-679456) interviewed Gerhard about Lobster Lager and AI for older people.
 
-Recent Lobster Lager coverage includes a [Salzburger Nachrichten interview with Gerhard](https://www.sn.at/wirtschaft/oesterreich/nach-erfolg-mit-ki-bier-will-ein-salzburger-senioren-begeistern-pensionisten-kann-man-nicht-durch-ki-ersetzen-art-679456) about AI and older people. My recent interviews include [Business Punk](https://www.business-punk.com/agentic-business-engineering-der-naechste-schritt-von-openai/), [Die Presse](https://www.diepresse.com/41319730/ki-agenten-warum-trotz-aller-warnungen-niemand-bremst) and [Was KI kann](https://open.spotify.com/episode/0U9UdSZwwYMasst2D4RLcf). See the [press archive](https://github.com/eranium21/press) for original coverage, podcasts and third-party mentions.
+Frontira work received three [AIR Salzburg 2026 awards](https://www.meinbezirk.at/salzburg/c-regionauten-community/drei-auszeichnungen-fuer-das-projekt-der-salzburg-ag-zwei-fuer-das-projekt-der-oebb-infrastruktur-ag_a8605967) across Lobster Lager, Baumit Agent and Salzwelten Smart Reply; Lobster Lager also won [TokenMade Hamburg](https://tokenmade.ai).
 
-Lobster Lager has also appeared in the [NVIDIA GTC Jensen Huang Keynote](https://www.nvidia.com/en-us/on-demand/session/gtc26-s81595/), [Peter Steinberger's TED Talk](https://www.ted.com/talks/peter_steinberger_how_i_created_openclaw_the_breakthrough_ai_agent), [BILD](https://www.bild.de/politik/inland/ein-helles-aus-dem-computer-bitte-vater-und-sohn-erfinden-ki-bier-69e5d950064e04c985e99d65), [NBC News](https://www.nbcnews.com/tech/tech-news/lobster-themed-event-ai-enthusiasts-exuberance-side-cocktail-sauce-rcna261892), [Business Insider](https://www.businessinsider.de/wirtschaft/oesterreicher-brauen-bier-mit-ki-agent-und-landen-in-keynote-vom-nvidia-chef/), [Business Punk](https://www.business-punk.com/tech/nvidia-chef-schmeckts-austria-ki-agenten-brauen-und-vermarkten-bier/), [Der Standard](https://www.derstandard.at/story/3000000315024/bier-brauen-openclaw-ki), [Die Presse](https://diepresse1848.podigee.io/1502-lobster), and [36Kr](https://eu.36kr.com/en/p/3720817143396993).
+→ [Full press archive](https://github.com/eranium21/press)
