@@ -1,10 +1,12 @@
-<img src="stefan.png" width="260" align="right" alt="Stefan Erschwendner" />
-
 # Stefan Erschwendner
 
 Managing Partner at [Frontira](https://frontira.com) · Berlin and Salzburg
 
 Frontira builds custom software. I use **Agentic Business Engineering** to help teams turn domain knowledge and working practices into useful applications, with clear ownership and human oversight.
+
+<img src="jobiqo-connect-2026.jpeg" width="640" alt="Stefan speaking at Jobiqo Connect 2026 in Vienna" />
+
+<sub>Jobiqo Connect 2026 · Photo: Martin Lenz</sub>
 
 ## Work and open source
 
