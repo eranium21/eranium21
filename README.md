@@ -20,7 +20,7 @@ A visible proof case is [Lobster Lager](https://www.lobsterlager.com/keynote): a
 - [speaking](https://github.com/eranium21/speaking) - talks, panels, signature keynote topics, and appearances.
 - [press](https://github.com/eranium21/press) - press, podcasts, TV, and media coverage.
 
-Upcoming speaking includes the prerecorded [AI Coding Summit NYC 2026](https://gitnation.com/events/ai-coding-summit-nyc/talks) talk, [TourismFastForward 2026](https://www.tourismfastforward.com/speaker/stefan-erschwendner/) in Mayrhofen, and KIM 2027 in Salzburg.
+Upcoming speaking includes [code.talks 2026](https://codetalks.com/) in Hamburg on 5 November, the prerecorded [AI Coding Summit NYC 2026](https://gitnation.com/events/ai-coding-summit-nyc/talks) talk, [TourismFastForward 2026](https://www.tourismfastforward.com/speaker/stefan-erschwendner/) in Mayrhofen, and KIM 2027 in Salzburg.
 
 Recent speaking includes the [DIH-West Forum](https://www.fh-salzburg.ac.at/fhs/aktuelles/veranstaltungen?cHash=09b58a975bd7e47b5772b6d54b5152b2&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=6468), a live interview at [LSZ CIO Kongress 2026](https://lsz.at/kongress/cio-kongress-loipersdorf), [Jobiqo Connect 2026](https://www.jobiqo.com/de/jobiqo-connect-2026/) and [AI Agents Summit 2026](https://ai-agents-summit.com/). See the [speaking archive](https://github.com/eranium21/speaking) for more.
 
